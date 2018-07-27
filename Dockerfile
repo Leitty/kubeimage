@@ -1,2 +1,2 @@
-from gcr.io/google_containers/kube-scheduler-amd64:v1.11.1
-label maintainer="leitty"
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.11.1
+MAINTAINER abramsz <abramsz@163.com>
